@@ -1,0 +1,6 @@
+{
+  "name": "Punctual TS",
+  "description": "Premium notes and product links manager with intelligent automatic metadata parsing, offline organization, rich text formatting, and checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

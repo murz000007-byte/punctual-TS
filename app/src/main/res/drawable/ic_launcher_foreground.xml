@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Folder Icon -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M24,30 L40,30 L44,35 L80,35 C82.2,35 84,36.8 84,39 L84,74 C84,76.2 82.2,78 80,78 L24,78 C21.8,78 20,76.2 20,74 L20,34 C20,31.8 21.8,30 24,30 Z" />
+    <!-- Link Icon layered on top -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M48,56 C48,52.68 50.68,50 54,50 L60,50 L60,54 L54,54 C52.9,54 52,54.9 52,56 C52,57.1 52.9,58 54,58 L60,58 L60,62 L54,62 C50.68,62 48,59.32 48,56 Z M64,50 L70,50 C73.32,50 76,52.68 76,56 C76,59.32 73.32,62 70,62 L64,62 L64,58 L70,58 C71.1,58 72,57.1 72,56 C72,54.9 71.1,54 70,54 L64,54 L64,50 Z M56,54 L68,54 L68,58 L56,58 L56,54 Z" />
+</vector>
